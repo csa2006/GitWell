@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitWell", "GitWell\GitWell.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDM", "EDM\EDM.csproj", "{ADD59166-810B-4140-A62F-73EC2E09F2E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{29F1597B-1235-4849-ACA9-76F1BEB5D35D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ADD59166-810B-4140-A62F-73EC2E09F2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADD59166-810B-4140-A62F-73EC2E09F2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADD59166-810B-4140-A62F-73EC2E09F2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F1597B-1235-4849-ACA9-76F1BEB5D35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F1597B-1235-4849-ACA9-76F1BEB5D35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F1597B-1235-4849-ACA9-76F1BEB5D35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F1597B-1235-4849-ACA9-76F1BEB5D35D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
